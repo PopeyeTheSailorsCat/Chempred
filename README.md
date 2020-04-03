@@ -1,1 +1,2 @@
-# Chempred
+# Chemical prediction
+
